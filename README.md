@@ -1,5 +1,5 @@
 # Scraping My ConvertKit Data
-I've killed off the two newsletters I've run over the last year.
+I've killed off the two newsletters I've ran over the last year.
 Even though I'm done with them, I don't want to lose the data
 I have.
 
